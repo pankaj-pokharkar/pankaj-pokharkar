@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pankaj-pokharkar
-- 👀 I’m interested in Full stack web development. Have major experience in React, Ember. Also worked on Vue, Extjs
-- 🌱 I’m currently learning Nodejs, Solidity and Flutter
-- 💞️ I’m looking to collaborate on full stack web development and Dapps.
+- 👀 I am a frontend developer with major experience in React, Vue, Ember. Worked on  minor features on Ext.js, knockout js.
+- 🌱 Exploring backend development. Familiar with Nodejs.
+- 💞️ Would love to collaborate on full stack development projects.
 - 📫 Reach me on pokharkarpankaj.work@gmail.com
 
 <!---
